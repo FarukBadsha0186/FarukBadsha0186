@@ -2,16 +2,28 @@
 <h3 align="center">Full Stack Developer | Software Quality Assurance (SQA) Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9BFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;SQA+Enthusiast;MERN+Stack+Expert;Test+Automation+Learner;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SQA+Enthusiast;MERN+Stack+Expert;Test+Automation+Learner;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FarukBadsha0186&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/FarukBadsha0186">
+  <a href="https://github.com/FarukBadsha0186?tab=followers">
     <img src="https://img.shields.io/github/followers/FarukBadsha0186?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/FarukBadsha0186">
+  <a href="https://github.com/FarukBadsha0186?tab=repositories">
     <img src="https://img.shields.io/github/stars/FarukBadsha0186?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/faruk-badsha-bb7401211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:farukbadsha02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://faruk-badsha-portfolio-bice.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -19,14 +31,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangladesh 🇧🇩. I love building robust, scalable, and user-friendly web applications. With a strong focus on code quality and software testing, I ensure that every product I deliver meets the highest standards of performance and reliability.
+I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast**  focused on building robust, scalable, and user-friendly web applications. With a strong emphasis on code quality and software testing, I aim to deliver products that meet high standards of performance and reliability.
 
-- 🔭 I’m currently working on **MERN Stack E-Commerce Platform**
-- 🌱 I’m currently learning **Next.js, TypeScript & SQA Automation**
-- 🧪 Exploring **Software Testing Life Cycle (STLC) & Test Automation**
+- 🔭 Currently building a **MERN Stack E-Commerce Platform**
+- 🚀 Specializing in  **React, Node.js, MongoDB, Express, PostgreSQL, Prisma, Tailwind CSS**
+- 🧪  Expertise in **Software Quality Assurance & Test Automation**
+- 🧪 Exploring the **Software Testing Life Cycle (STLC)** and automation frameworks
 - 💬 Ask me about **React, Node.js, MongoDB, Express, SQA**
 - 🎯 Goal: **Become a Full Stack Developer + SQA Specialist**
-- 
 
 ---
 
@@ -40,7 +52,6 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-
 </p>
 
 ### ⚙️ Backend Development
@@ -49,7 +60,7 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
-   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
 ### 🗄️ Database
@@ -91,7 +102,11 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarukBadsha0186&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=FarukBadsha0186&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarukBadsha0186&theme=react-dark&hide_border=true" alt="Activity Graph" width="90%" />
 </div>
 
 ---
@@ -100,14 +115,6 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FarukBadsha0186&theme=radical&no-frame=true&row=3&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarukBadsha0186&theme=react-dark&hide_border=true" alt="Activity Graph" width="90%" />
 </div>
 
 ---
@@ -128,75 +135,59 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
     </tr>
     <tr>
       <td><b>🔒 Security Testing</b></td>
-      <td><b>📱 Mobile Testing With Appium </b></td>
+      <td><b>📱 Mobile Testing (Appium)</b></td>
       <td><b>🌐 API Testing</b></td>
     </tr>
   </table>
 </div>
 
-### 🎯 SQA Skills:
-- ✅ **Software Testing Life Cycle (STLC)**
-- ✅ **Test Case Design Techniques** (Equivalence Partitioning, Boundary Value Analysis)
-- ✅ **Defect Life Cycle & Bug Tracking** (JIRA, Trello)
-- ✅ **Functional & Non-Functional Testing**
-- ✅ **Agile  Methodologies**
-- ✅ **Test Automation Framework** (Selenium with Java)
-- ✅ **API Testing** (Postman, REST Assured)
-- ✅ **Performance Testing** (JMeter)
-- ✅ **Cross-Browser & Cross-Platform Testing**
+**Core SQA Skills:**
+- ✅ Software Testing Life Cycle (STLC)
+- ✅ Test Case Design Techniques (Equivalence Partitioning, Boundary Value Analysis)
+- ✅ Defect Life Cycle & Bug Tracking (JIRA)
+- ✅ Functional & Non-Functional Testing
+- ✅ Agile Methodologies
+- ✅ Test Automation Framework (Selenium with Java)
+- ✅ API Testing (Postman, REST Assured)
+- ✅ Performance Testing (JMeter)
+- ✅ Cross-Browser & Cross-Platform Testing
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🛍️ Full Stack E-Commerce Platform
-> Complete e-commerce solution with user frontend, admin panel, and RESTful API
-- **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS, SSLCommerz, Cloudinary
-- **Features:** Auth, Cart, Orders, Payment, Admin Dashboard, File Upload
-- [🔗 Live Demo](https://your-ecommerce-demo.com) | [📂 Repository](https://github.com/FarukBadsha0186/ecommerce_frontend_-_backend)
+> Complete e-commerce solution with a customer-facing storefront, admin panel, and RESTful API
+
+**Tech:** React, Node.js, Express, MongoDB, Tailwind CSS, SSLCommerz, Cloudinary
+**Features:** Authentication, Cart, Orders, Payment Integration, Admin Dashboard, File Upload
+
+[🔗 Client Panel](https://client-panel.onrender.com/) · [🔗 Admin Panel](https://admin-panel-18zu.onrender.com/) · [📂 Repository](https://github.com/FarukBadsha0186/ecommerce_frontend_-_backend)
 
 ### 📰 MERN News Portal
 > Full stack news portal with user authentication and news CRUD operations
-- **Tech:** React, Node.js, Express, MongoDB, JWT, Vite
-- **Features:** User Registration, Login, News Create/Read, Authorization
-- [🔗 Live Demo](https://news-portal-etom.onrender.com/) | [📂 Repository](https://github.com/FarukBadsha0186/news-portal)
+
+**Tech:** React, Node.js, Express, MongoDB, JWT, Vite
+**Features:** User Registration, Login, News Create/Read, Authorization
+
+[🔗 Live Demo](https://news-portal-etom.onrender.com/) · [📂 Repository](https://github.com/FarukBadsha0186/news-portal)
 
 ### 🧪 SQA Test Automation Framework
 > Test automation framework for web applications using Selenium and Python
-- **Tech:** Python, Selenium WebDriver, PyTest, Allure Reports
-- **Features:** Page Object Model, Data-Driven Testing, Cross-Browser Testing
-- [📂 Repository](https://github.com/FarukBadsha0186/sqa-automation-framework)
 
----
+**Tech:** Python, Selenium WebDriver, PyTest, Allure Reports
+**Features:** Page Object Model, Data-Driven Testing, Cross-Browser Testing
 
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/FarukBadsha0186">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:farukbadsha02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://your-resume.com">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-  </a>
-</p>
+[📂 Repository](https://github.com/FarukBadsha0186/sqa-automation-framework)
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔹 Building **Full Stack E-Commerce Platform** with MERN Stack
+- 🔹 Building the **Full Stack E-Commerce Platform** with the MERN stack
 - 🔹 Learning **Next.js & TypeScript** for modern web development
 - 🔹 Exploring **Test Automation** with Selenium & Cypress
-- 🔹 Enhancing **SQA Skills** & contributing to open-source testing tools
+- 🔹 Sharpening **SQA skills** and contributing to open-source testing tools
 
 ---
 
@@ -214,14 +205,6 @@ graph LR
 
 ---
 
-## 📊 Weekly Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FarukBadsha0186&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" width="70%" />
-</div>
-
----
-
 ## 💬 Random Dev Quote
 
 <div align="center">
@@ -230,25 +213,29 @@ graph LR
 
 ---
 
-## 📱 Support My Work
+## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/farukbadsha">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  <a href="https://github.com/FarukBadsha0186">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/sponsors/FarukBadsha0186">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" />
+  <a href="https://www.linkedin.com/in/faruk-badsha-bb7401211/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:farukbadsha02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://faruk-badsha-portfolio-bice.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <b>💻 "Quality is not an act, it is a habit." - Aristotle</b>
-  <br />
-  <br />
+  <b>💻 "Quality is not an act, it is a habit." — Aristotle</b>
+  <br /><br />
   <i>⭐ Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</i>
-  <br />
-  <br />
+  <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
