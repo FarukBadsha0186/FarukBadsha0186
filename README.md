@@ -26,7 +26,7 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
 - 🧪 Exploring **Software Testing Life Cycle (STLC) & Test Automation**
 - 💬 Ask me about **React, Node.js, MongoDB, Express, SQA**
 - 🎯 Goal: **Become a Full Stack Developer + SQA Specialist**
-- ⚡ Fun fact: **"I can debug faster with coffee ☕"**
+- 
 
 ---
 
