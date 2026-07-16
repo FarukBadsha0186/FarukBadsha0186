@@ -39,24 +39,17 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
 </p>
 
 ### ⚙️ Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
 ### 🗄️ Database
@@ -71,10 +64,7 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
 <p align="left">
   <img src="https://img.shields.io/badge/Manual_Testing-6C2BD9?style=for-the-badge&logo=testing-library&logoColor=white" alt="Manual Testing" />
   <img src="https://img.shields.io/badge/Test_Automation-FF6B6B?style=for-the-badge&logo=selenium&logoColor=white" alt="Test Automation" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
   <img src="https://img.shields.io/badge/Test_Plan-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Test Plan" />
@@ -82,12 +72,9 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
 
 ### 🛠️ DevOps & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
@@ -141,7 +128,7 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
     </tr>
     <tr>
       <td><b>🔒 Security Testing</b></td>
-      <td><b>📱 Mobile Testing</b></td>
+      <td><b>📱 Mobile Testing With Appium </b></td>
       <td><b>🌐 API Testing</b></td>
     </tr>
   </table>
@@ -152,8 +139,8 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
 - ✅ **Test Case Design Techniques** (Equivalence Partitioning, Boundary Value Analysis)
 - ✅ **Defect Life Cycle & Bug Tracking** (JIRA, Trello)
 - ✅ **Functional & Non-Functional Testing**
-- ✅ **Agile & Scrum Methodologies**
-- ✅ **Test Automation Framework** (Selenium with Python/Java)
+- ✅ **Agile  Methodologies**
+- ✅ **Test Automation Framework** (Selenium with Java)
 - ✅ **API Testing** (Postman, REST Assured)
 - ✅ **Performance Testing** (JMeter)
 - ✅ **Cross-Browser & Cross-Platform Testing**
@@ -191,10 +178,7 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/your-facebook">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:farukbadsha0186@gmail.com">
+  <a href="mailto:farukbadsha02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://your-portfolio.com">
@@ -213,7 +197,6 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast** from Bangla
 - 🔹 Learning **Next.js & TypeScript** for modern web development
 - 🔹 Exploring **Test Automation** with Selenium & Cypress
 - 🔹 Enhancing **SQA Skills** & contributing to open-source testing tools
-- 🔹 Preparing for **ISTQB Certification**
 
 ---
 
