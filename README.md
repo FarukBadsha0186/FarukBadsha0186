@@ -32,7 +32,6 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast**  focused on
 - 🚀 Specializing in  **React, Node.js, MongoDB, Express, PostgreSQL, Prisma, Tailwind CSS**
 - 🧪  Expertise in **Software Quality Assurance & Test Automation**
 - 🧪 Exploring the **Software Testing Life Cycle (STLC)** and automation frameworks
-- 💬 Ask me about **React, Node.js, MongoDB, Express, SQA**
 - 🎯 Goal: **Become a Full Stack Developer + SQA Specialist**
 
 ---
@@ -200,13 +199,7 @@ graph LR
 
 ---
 
-## 💬 Random Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
 
 ## 📬 Connect with Me
 
