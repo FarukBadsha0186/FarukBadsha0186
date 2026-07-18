@@ -1,10 +1,8 @@
 <h1 align="center">🚀 Faruk Badsha</h1>
 <h3 align="center">Full Stack Developer | Software Quality Assurance (SQA) Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SQA+Enthusiast;MERN+Stack+Expert;Test+Automation+Learner;Building+Scalable+Solutions" alt="Typing SVG />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SQA+Enthusiast;MERN+Stack+Expert;Test+Automation+Learner;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FarukBadsha0186&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/FarukBadsha0186?tab=followers">
@@ -14,7 +12,6 @@
     <img src="https://img.shields.io/github/stars/FarukBadsha0186?label=Stars&style=social" alt="GitHub Stars" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/faruk-badsha-bb7401211/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,8 +23,6 @@
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
 
 ## 🧑‍💻 About Me
 
