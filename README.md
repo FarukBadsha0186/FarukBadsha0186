@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Software Quality Assurance (SQA) Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SQA+Enthusiast;MERN+Stack+Expert;Test+Automation+Learner;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SQA+Enthusiast;MERN+Stack+Expert;Test+Automation+Learner;Building+Scalable+Solutions" alt="Typing  />
 </p>
 
 <p align="center">
