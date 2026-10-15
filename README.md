@@ -150,8 +150,6 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast**  focused on
 
 ## 📌 Featured Projects
 
-## 🚀 Projects
-
 ### 🧭 Tour Guide Platform
 > Marketplace connecting tourists with verified local guides across Bangladesh with a 4-layered approval workflow
 
