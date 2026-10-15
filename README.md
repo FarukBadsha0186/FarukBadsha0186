@@ -150,21 +150,22 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast**  focused on
 
 ## 📌 Featured Projects
 
-### 🛍️ Full Stack E-Commerce Platform
-> Complete e-commerce solution with a customer-facing storefront, admin panel, and RESTful API
+🧭 Tour Guide Platform
+Marketplace connecting tourists with verified local guides across Bangladesh with a 4-layered approval workflow
 
-**Tech:** React, Node.js, Express, MongoDB, Tailwind CSS, SSLCommerz, Cloudinary
-**Features:** Authentication, Cart, Orders, Payment Integration, Admin Dashboard, File Upload
+Tech: Next.js 16, TypeScript, TanStack Query, Zod, shadcn/ui, Tailwind CSS 4, JWT, Google OAuth, bKash Payment, Vercel
+Features: Role-Based Access (Tourist/Guide/Admin), 4-Layer Approval Chain, Guide Availability Slots, Date-wise Booking, bKash Auto-Confirmation, Google OAuth + Email OTP, Booking Lifecycle, Reviews
 
-[🔗 Client Panel](https://client-panel.onrender.com/) · [🔗 Admin Panel](https://admin-panel-18zu.onrender.com/) · [📂 Repository](https://github.com/FarukBadsha0186/ecommerce_frontend_-_backend)
+🔗 Live Demo · 📂 Repository
 
-### 📰 MERN News Portal
-> Full stack news portal with user authentication and news CRUD operations
+🛠️ FixItNow — Home Service Marketplace
+Full-stack home service marketplace connecting customers with trusted technicians for household repairs and maintenance
 
-**Tech:** React, Node.js, Express, MongoDB, JWT, Vite
-**Features:** User Registration, Login, News Create/Read, Authorization
+Tech: Next.js 14, TypeScript, NextAuth.js, React Query, Stripe, Tailwind CSS, shadcn/ui, Vercel
+Features: 3 Role-Based Dashboards (Customer/Technician/Admin), Advanced Search & Filter (Category, Location, Rating, Price), Interactive Booking with Date/Time Pickers, Stripe Payment Integration, Real-time Updates
 
-[🔗 Live Demo](https://news-portal-etom.onrender.com/) · [📂 Repository](https://github.com/FarukBadsha0186/news-portal)
+🔗 Live Demo · 📂 Repository
+
 
 ### 🧪 SQA Test Automation Framework
 > Test automation framework for web applications using Selenium and Python
