@@ -150,21 +150,27 @@ I'm a passionate **Full Stack Web Developer** and **SQA Enthusiast**  focused on
 
 ## 📌 Featured Projects
 
-🧭 Tour Guide Platform
-Marketplace connecting tourists with verified local guides across Bangladesh with a 4-layered approval workflow
+## 🚀 Projects
 
-Tech: Next.js 16, TypeScript, TanStack Query, Zod, shadcn/ui, Tailwind CSS 4, JWT, Google OAuth, bKash Payment, Vercel
-Features: Role-Based Access (Tourist/Guide/Admin), 4-Layer Approval Chain, Guide Availability Slots, Date-wise Booking, bKash Auto-Confirmation, Google OAuth + Email OTP, Booking Lifecycle, Reviews
+### 🧭 Tour Guide Platform
+> Marketplace connecting tourists with verified local guides across Bangladesh with a 4-layered approval workflow
 
-🔗 Live Demo · 📂 Repository
+**Tech:** Next.js 16, TypeScript, TanStack Query, Zod, shadcn/ui, Tailwind CSS 4, JWT, Google OAuth, bKash Payment, Vercel  
+**Features:** Role-Based Access (Tourist/Guide/Admin), 4-Layer Approval Chain, Guide Availability Slots, Date-wise Booking, bKash Auto-Confirmation, Google OAuth + Email OTP, Booking Lifecycle, Reviews
 
-🛠️ FixItNow — Home Service Marketplace
-Full-stack home service marketplace connecting customers with trusted technicians for household repairs and maintenance
+[🔗 Live Demo](https://tour-guide-platform-frontend.vercel.app/) · [📂 Repository](https://github.com/FarukBadsha0186/tour-guide-platform-frontend)
 
-Tech: Next.js 14, TypeScript, NextAuth.js, React Query, Stripe, Tailwind CSS, shadcn/ui, Vercel
-Features: 3 Role-Based Dashboards (Customer/Technician/Admin), Advanced Search & Filter (Category, Location, Rating, Price), Interactive Booking with Date/Time Pickers, Stripe Payment Integration, Real-time Updates
+### 🛠️ FixItNow — Home Service Marketplace
+> Full-stack home service marketplace connecting customers with trusted technicians for household repairs and maintenance
 
-🔗 Live Demo · 📂 Repository
+**Tech:** Next.js 14, TypeScript, NextAuth.js, React Query, Stripe, Tailwind CSS, shadcn/ui, Vercel  
+**Features:** 3 Role-Based Dashboards (Customer/Technician/Admin), Advanced Search & Filter (Category, Location, Rating, Price), Interactive Booking with Date/Time Pickers, Stripe Payment Integration, Real-time Updates
+
+[🔗 Live Demo](https://fix-it-now-frontend-omega.vercel.app/) · [📂 Repository](https://github.com/FarukBadsha0186/FixItNow_Frontend)
+
+
+
+
 
 
 ### 🧪 SQA Test Automation Framework
